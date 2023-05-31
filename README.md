@@ -1,7 +1,10 @@
 # RecommendingItems
-This python script is used to recommend product items based on the history of those items brought in combination. It is a small, basic recommending program.
+RecommendingItems is a Python script that provides recommendations for product items based on the historical purchasing patterns of customers. It is a basic recommendation program that utilizes item association analysis.
 
 License
 This project is licensed under the MIT License. Please review the LICENSE file for more details.
 
-This project was doen for a univeristy assigment, so if you decide to use this I am not liable for any mistakes.
+Disclaimer
+The RecommendingItems script was created for educational purposes as part of a university assignment. It is a basic implementation and may not be suitable for production-level use. The author cannot be held liable for any mistakes, errors, or consequences arising from the usage of this script.
+
+If you have any questions or concerns, please contact the project owner.
